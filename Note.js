@@ -15,3 +15,13 @@ const {age, z, } = {x: 2, y: 2, z: 4, name: 'ovijeet', age: 55}
 
 /* array */
 const [a, b, c, d] = ['ram', 'sam', 'jodu', 'modu'];
+
+/* ES6 Module recap:*/
+ 
+ /*
+    1. map
+    2. filter
+    3. find
+    4. forEach
+    5. reduce
+ */
